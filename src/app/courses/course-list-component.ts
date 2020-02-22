@@ -23,12 +23,12 @@ ngOnInit(): void{
         },
 
         {
-            id:  1, 
+            id:  2, 
             name: 'Angular: HTTP',
             imageUrl: '',
             price: 45.99,
             code: 'LKL-8796',
-            duration: 80 ,
+            duration: 80,
             rating: 4,
             releaseDate: 'November, 4,2019'
         }
